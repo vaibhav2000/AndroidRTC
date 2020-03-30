@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/desugar/release/6.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09532ff16479b0b7813a7c24a350c5d9eed16f8d">
+        <dex dex="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/desugar/release/5.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="317c261f8c4bbb4dbe8865cb1904fc6e5e36d707">
+        <dex dex="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/desugar/release/2.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="812b3d19f0d6addd7cdba0c3218a16825eb2e17e">
+        <dex dex="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/desugar/release/4.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9181a708d60b7ad63d7307a93cb8b228d4d0fb63">
+        <dex dex="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/processing-tools/runtime-deps/release/desugar_try_with_resources.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dfeede25fde82c239dee8378efc8b1af6365c42b">
+        <dex dex="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/desugar/release/3.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95c76da604a63a6f5a3165a32a6bfdf232375946">
+        <dex dex="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/desugar/release/1.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7f76869a4898280364fae58d0674acbbe3c56870">
+        <dex dex="/home/vab/Desktop/webrtc-android-demo-apprtc-master/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+
+</items>
